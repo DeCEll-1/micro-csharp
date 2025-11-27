@@ -1,0 +1,6 @@
+[ {
+        "Name"        : "cssupport",
+        "Description" : "C# support",
+        "Tags"        : [ "csharp", "c#" ],
+        "Website"     : "https://github.com/DeCEll-1/micro-csharp"
+    } ]
